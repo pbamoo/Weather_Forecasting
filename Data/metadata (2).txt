@@ -1,0 +1,21 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 20-11-2020
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+
+----------------------------------------------------------------
+42,BREMEN,GERMANY,+53:02:47,+008:47:58,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Name / Begin / End / Latitude / Longitude / Elevation of station (m) / Elevation of Barometer (m) <br>Bremen 18900101-19480131      <br>Bremen 19490101-19490131 53°03'11 08°47'22 5.0 9.3<br>Bremen 19490201-19730930 53°03'11 08°47'22 5.0 9.3<br>Bremen 19731001-19780531 53°03'11 08°47'22 5.0 12.7<br>Bremen 19780601-present 53°02'47 08°47'58 5.0 5.2<br><br>Measuring times have changed from 20010401 onwards:<br>- Temperature,relative humidity: 0-24 UTC<br>- Cloud cover, windspeed, pressure and sunshine: 0-24 UTC<br>- Precipitation: 6 UTC until 6 UTC next day<br>- Snow cover: at 6 UTC<br><br>Before 20010401:<br>- Temperature extremes: from 21:30 previous day until 21:30 CET<br>- Mean temperature: weighted average of 07:30, 14:30 and twice 21:30 CET<br>- Precipitation: morning today 07:30 CET until morning next day<br>- Cloud cover: average of 07:30, 14:30 and 21:30 CET<br>- Relative humidity: average of 07:30, 14:30 and 21:30 CET<br>- Pressure: average of 07:30, 14:30 and 21:30 CET<br>- Wind speed: average of 24 hourly means<br>- Sunshine: 00-24 CET<br>- Snow cover: at 7:30 CET
+
