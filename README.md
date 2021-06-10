@@ -18,6 +18,7 @@ Python, Pandas, Matplotlib, Plotly, Scikit-learn, Statsmodels
 
 ### Files in this Repository:
 1. [Code Folder](https://github.com/pbamoo/Weather_Forecasting/tree/main/Code): [**1_Timeseries_Forecast.ipynb**](https://github.com/pbamoo/Weather_Forecasting/blob/main/Code/1_Timeseries_Forecast.ipynb) is the jupyter notebook containing all models (AR, ARMA, ARIMA), while [**2_Timeseries_ARIMA.ipynb**](https://github.com/pbamoo/Weather_Forecasting/blob/main/Code/2_Timeseries_ARIMA.ipynb) is the notebook for different forms of the ARIMA model & [**Timeseries.py**](https://github.com/pbamoo/Weather_Forecasting/blob/main/Code/Timeseries.py) is the python scipt containing all models, which can be run on the command-line.
+
 2. [Data Folder](https://github.com/pbamoo/Weather_Forecasting/tree/main/Data): Contains the data used for this project.
+
 3. [Images Folder](https://github.com/pbamoo/Weather_Forecasting/tree/main/Images): Contains some of the images obtained from the projects.
-      - 
